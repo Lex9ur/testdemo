@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Loginpage
+</name>
+</assembly>
+<members>
+<member name="P:Loginpage.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.books_wooden_background_open_book_149422910">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.books_wooden_background_open_book_1494229101">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.download">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.leather_book_over_wooden_table_books_background_pictures_wall_195791629">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.leather_book_over_wooden_table_books_background_pictures_wall_1957916291">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.library_background_wall_books_street_textured_pesaro_marche_italy_129421859">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.library_background_wall_books_street_textured_pesaro_marche_italy_1294218591">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.OIP">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.old_books_white_wall_background_education_concept_vintage_tone_old_books_white_wall_background_education_concept_vintage_117417707">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.old_books_white_wall_background_education_concept_vintage_tone_old_books_white_wall_background_education_concept_vintage_1174177071">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.open_book_light_bulb_hardback_books_wood_wall_background_free_space_text_selective_focus_open_book_light_bulb_111700990">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.open_book_light_bulb_hardback_books_wood_wall_background_free_space_text_selective_focus_open_book_light_bulb_1117009901">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Loginpage.My.Resources.Resources.thoughtful_young_man_book_his_hand_standing_library_loft_stone_wall_background_thoughtful_173214787">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Loginpage.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,17 @@
+c:\users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\bin\Debug\Loginpage.exe
+c:\users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\bin\Debug\Loginpage.pdb
+c:\users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\bin\Debug\Loginpage.xml
+c:\users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.Form1.resources
+c:\users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.Resources.resources
+c:\users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.vbproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.exe
+c:\users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.xml
+c:\users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.pdb
+C:\Users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.Form2.resources
+C:\Users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.Form3.resources
+C:\Users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.vbprojResolveAssemblyReference.cache
+C:\Users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.Borrow_Book.resources
+C:\Users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.Purchase_Book.resources
+C:\Users\alex\documents\visual studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.Returnbook.resources
+C:\Users\alex\Documents\Visual Studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.Form4.resources
+C:\Users\alex\Documents\Visual Studio 2010\Projects\Loginpage\Loginpage\obj\x86\Debug\Loginpage.Form5.resources
