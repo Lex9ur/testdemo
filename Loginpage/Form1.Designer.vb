@@ -85,7 +85,7 @@ Partial Class Form1
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(104, 23)
         Me.Button1.TabIndex = 5
-        Me.Button1.Text = "Login"
+        Me.Button1.Text = "Cancel"
         Me.Button1.UseVisualStyleBackColor = False
         '
         'Button2
@@ -97,7 +97,7 @@ Partial Class Form1
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(100, 23)
         Me.Button2.TabIndex = 6
-        Me.Button2.Text = "Cancel"
+        Me.Button2.Text = "Login"
         Me.Button2.UseVisualStyleBackColor = False
         '
         'LinkLabel1
